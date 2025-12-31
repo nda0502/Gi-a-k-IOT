@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="myimage">
+    <file>fan_off.png</file>
+    <file>fan_on.png</file>
+    <file>heater_off.png</file>
+    <file>heater_on.png</file>
+    <file>helios.png</file>
+    <file>water_off.png</file>
+    <file>water_on.png</file>
+  </qresource>
+</RCC>
